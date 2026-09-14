@@ -1,0 +1,15 @@
+# Local/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Future Node/TypeScript build artifacts
+node_modules/
+dist/
+build/
+.cache/
